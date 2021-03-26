@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdf_Font_Not_Display_Correctly", "Pdf_Font_Not_Display_Correctly\Pdf_Font_Not_Display_Correctly.csproj", "{14811333-6EBA-4147-9E41-6C52C822B211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14811333-6EBA-4147-9E41-6C52C822B211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14811333-6EBA-4147-9E41-6C52C822B211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14811333-6EBA-4147-9E41-6C52C822B211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14811333-6EBA-4147-9E41-6C52C822B211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69276A23-0F0B-455E-97B7-351EB7B6D020}
+	EndGlobalSection
+EndGlobal

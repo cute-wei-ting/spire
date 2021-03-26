@@ -1,0 +1,6 @@
+.vs
+bin
+obj
+*.swp
+out/
+*.swo
